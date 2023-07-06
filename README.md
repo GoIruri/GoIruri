@@ -7,8 +7,8 @@
 
 ### I'm GoIruri
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Beijing, China.
+- A geek who loves programming and Internet security.
+- 🌱 Currently in Beijing, China.
 - 💬 Ask me about Go and Sec.
 - ⚡ Fun fact: Data Analysis📊
 
