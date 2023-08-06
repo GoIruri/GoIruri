@@ -1,7 +1,7 @@
 ### Hi, nice to meet you 👋
 #### 一名爱好编程，爱好网安的极客
 [![Mail Badge](https://img.shields.io/badge/-1174511382@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:1174511382@qq.com)](1174511382@qq.com)
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Cl0udG0d)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ---
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
