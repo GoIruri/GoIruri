@@ -9,7 +9,7 @@
 ### I'm GoIruri
 
 - A geek who loves programming and Internet security.
-- 🌱 Currently in Beijing, China.
+- 🌱 Currently in Shanghai, China.
 - 💬 Ask me about Go and Sec.
 - ⚡ Fun fact: Data Analysis📊
 
